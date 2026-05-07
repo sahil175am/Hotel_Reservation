@@ -1,0 +1,90 @@
+{
+  "101": {
+    "room_number": "101",
+    "room_type": "single",
+    "floor": 1,
+    "price_per_night": 80,
+    "capacity": 1,
+    "beds": 1
+  },
+  "102": {
+    "room_number": "102",
+    "room_type": "single",
+    "floor": 1,
+    "price_per_night": 80,
+    "capacity": 1,
+    "beds": 1
+  },
+  "103": {
+    "room_number": "103",
+    "room_type": "double",
+    "floor": 1,
+    "price_per_night": 120,
+    "capacity": 2,
+    "beds": 2
+  },
+  "104": {
+    "room_number": "104",
+    "room_type": "double",
+    "floor": 1,
+    "price_per_night": 120,
+    "capacity": 2,
+    "beds": 2
+  },
+  "201": {
+    "room_number": "201",
+    "room_type": "double",
+    "floor": 2,
+    "price_per_night": 120,
+    "capacity": 2,
+    "beds": 2
+  },
+  "202": {
+    "room_number": "202",
+    "room_type": "double",
+    "floor": 2,
+    "price_per_night": 120,
+    "capacity": 2,
+    "beds": 2
+  },
+  "203": {
+    "room_number": "203",
+    "room_type": "suite",
+    "floor": 2,
+    "price_per_night": 250,
+    "capacity": 4,
+    "beds": 2
+  },
+  "204": {
+    "room_number": "204",
+    "room_type": "suite",
+    "floor": 2,
+    "price_per_night": 250,
+    "capacity": 4,
+    "beds": 2
+  },
+  "301": {
+    "room_number": "301",
+    "room_type": "suite",
+    "floor": 3,
+    "price_per_night": 250,
+    "capacity": 4,
+    "beds": 2
+  },
+  "302": {
+    "room_number": "302",
+    "room_type": "deluxe",
+    "floor": 3,
+    "price_per_night": 350,
+    "capacity": 6,
+    "beds": 3
+  },
+  "303": {
+    "room_number": "303",
+    "room_type": "deluxe",
+    "floor": 3,
+    "price_per_night": 350,
+    "capacity": 6,
+    "beds": 3
+  }
+}
